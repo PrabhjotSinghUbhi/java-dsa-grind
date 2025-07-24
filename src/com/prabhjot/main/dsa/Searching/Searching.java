@@ -12,7 +12,7 @@ public class Searching {
 
     }
 
-    private static int binary(int[] arr, int target) {
+    public static int binary(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
 
