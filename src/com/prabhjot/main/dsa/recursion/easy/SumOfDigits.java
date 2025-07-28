@@ -1,4 +1,4 @@
-package com.prabhjot.main.dsa.Recursion.Level1;
+package com.prabhjot.main.dsa.recursion.easy;
 
 public class SumOfDigits {
     public static void main(String[] args) {

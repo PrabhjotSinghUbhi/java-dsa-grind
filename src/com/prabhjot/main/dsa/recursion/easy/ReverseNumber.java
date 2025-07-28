@@ -1,4 +1,4 @@
-package com.prabhjot.main.dsa.Recursion.Level1;
+package com.prabhjot.main.dsa.recursion.easy;
 
 public class ReverseNumber {
     static int sum = 0;

@@ -1,6 +1,4 @@
-package com.prabhjot.main.dsa.Searching;
-
-import java.util.*;
+package com.prabhjot.main.dsa.searching;
 
 public class Searching {
     public static void main(String[] args) {

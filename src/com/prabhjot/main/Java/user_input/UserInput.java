@@ -1,4 +1,4 @@
-package com.prabhjot.main.Java.UserInput;
+package com.prabhjot.main.Java.user_input;
 
 import java.util.*;
 

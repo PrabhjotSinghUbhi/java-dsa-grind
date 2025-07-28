@@ -1,6 +1,4 @@
-package com.prabhjot.main.dsa.Recursion.Level1;
-
-import java.util.*;
+package com.prabhjot.main.dsa.recursion.easy;
 
 public class Demo {
     public static void main(String[] args) {

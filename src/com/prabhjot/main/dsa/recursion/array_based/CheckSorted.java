@@ -1,4 +1,4 @@
-package com.prabhjot.main.dsa.Recursion.ArrayBased;
+package com.prabhjot.main.dsa.recursion.array_based;
 
 public class CheckSorted {
     public static void main(String[] args) {

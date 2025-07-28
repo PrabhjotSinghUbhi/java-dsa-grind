@@ -1,9 +1,6 @@
-package com.prabhjot.main.dsa.Sorting;
+package com.prabhjot.main.dsa.sorting;
 
 import java.util.*;
-
-import static java.util.Collections.disjoint;
-import static java.util.Collections.swap;
 
 public class Sorting {
 
