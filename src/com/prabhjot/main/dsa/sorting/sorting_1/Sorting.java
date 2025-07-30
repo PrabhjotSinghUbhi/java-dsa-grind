@@ -1,4 +1,4 @@
-package com.prabhjot.main.dsa.sorting;
+package com.prabhjot.main.dsa.sorting.sorting_1;
 
 import java.util.*;
 
